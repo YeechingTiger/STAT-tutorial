@@ -4,7 +4,7 @@
     <b>Note:</b> If you cannot identify the boundary of the phrases, try to include as much information as you can.  
     (<b>e.g.,</b> “smoking is significant associated with the increase of lung cancer risk” -> (“smoking”, “is significant associated with”, “the increase of lung cancer risk”)
     
-    *Compose these noun phrases, verb phrases, and prepositional phrases into semantic triples in the form of “subject – predicate – object”.  
+* Compose these noun phrases, verb phrases, and prepositional phrases into semantic triples in the form of “subject – predicate – object”.  
       <b>Note:</b> <p>1) Subject and object are “noun phrases” </p>
       <p>2) Predicate can be “verb phrase”, "prepositional phrases" or   "noun phrases".  It is used to describe the relation between the two noun phrases.</p>
     <p>e.g., Noun phrases as predicate:</p>
