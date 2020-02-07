@@ -1,5 +1,5 @@
 ## Guideline
-1. <b>For each sentence:</b>  
+<b>For each sentence:</b>  
     * Identify all noun phrases and verb phrases, prepositional phrases from the sentence.  
     <b>Note:</b> If you cannot identify the boundary of the phrases, try to include as much information as you can.  
     (<b>e.g.,</b> “smoking is significant associated with the increase of lung cancer risk” -> (“smoking”, “is significant associated with”, “the increase of lung cancer risk”)
@@ -19,16 +19,4 @@
         <li>Triple 1: “Smoking”  -  “increase” - “risk of lung cancer”</li>
         <li>Triple 2: “risk of lung cancer”  -  “for” - “male”</li>
     </ul>
-
-
-
-2. <b>When finish one sentence, click “Complete & Next”.</b>
-3. <b>When finish all sentences, click “Finish annotation” and get the reward code.</b>
-
-## Video Tutorial
-<div style="width: 70%; margin-left: 10%;">
-  <div class="iframe-container">
-     https://www.youtube.com/embed/-Z38Ltk5Tq0
-  </div>
-</div>
 
